@@ -28,3 +28,4 @@ Improve budgeting and financial planning
 
 ## Dashboard preview
 ![image alt](https://raw.githubusercontent.com/Vrushali-DS/Personal-Expense-Dashboard/refs/heads/main/Personal%20Expenses%20Dashboard.jpg)
+![image alt](https://raw.githubusercontent.com/Vrushali-DS/Personal-Expense-Dashboard/refs/heads/main/personal%20expense%20dashboard2.jpg)
